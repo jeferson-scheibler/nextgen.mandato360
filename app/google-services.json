@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384994103732",
+    "project_id": "mandato360-7a630",
+    "storage_bucket": "mandato360-7a630.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384994103732:android:6a3f4c6bd3151599eae2e1",
+        "android_client_info": {
+          "package_name": "com.nextgen.mandato360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384994103732-n6dv09pukpt251nbquosum6ivhcq465v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nextgen.mandato360",
+            "certificate_hash": "60959d2806987d987b68e4148031e68041bbb578"
+          }
+        },
+        {
+          "client_id": "384994103732-t3v1uvh8njvbsgmlsf18faqsbnlgm970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACTueOVFxwsdnfPnoqnwls-g5fWRpPiSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384994103732-t3v1uvh8njvbsgmlsf18faqsbnlgm970.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
